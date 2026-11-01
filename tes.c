@@ -2,4 +2,5 @@
 
 int main(){
   printf("halo world");
+  printf("naisu");
 }
